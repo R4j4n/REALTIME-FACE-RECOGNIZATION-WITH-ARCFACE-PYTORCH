@@ -15,9 +15,9 @@
 
 
 
-![Alt Text](Media\chunea.gif) <br>
+![Alt Text](Media/chunea.gif) <br>
 
-![Alt Text](Media\em.gif) <br>
+![Alt Text](Media/em.gif) <br>
 
 
 
