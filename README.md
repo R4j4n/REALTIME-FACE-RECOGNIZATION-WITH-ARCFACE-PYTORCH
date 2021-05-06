@@ -3,7 +3,7 @@
 
 ### STEP 1: Run ``` DATA_COLLECT.py``` to collect your face dataset. <br>
 ### STEP 2: Run ``` GENERATE_EMBEDDINGS.py ``` to generate facial embeddings. <br>
-#### STEP 3: Then run ``` VALIDATE.py ``` for realtime face recognization. <br>
+### STEP 3: Then run ``` VALIDATE.py ``` for realtime face recognization. <br>
 
 
 
