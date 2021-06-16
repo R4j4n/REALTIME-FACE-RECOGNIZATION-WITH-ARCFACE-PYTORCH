@@ -7,7 +7,7 @@
 
 
 
- Dowload pre-trained weight from [Here.👈](https://drive.google.com/file/d/1Fa5WrlJm7CWZQl2j7Xpi0RzU1Sih7g1g/view?usp=sharing) <br>
+ Dowload pre-trained weight from [Here.👈](https://drive.google.com/drive/folders/1rN6dU09aCuUzWQvAsfV4X8dD_kSbCWfC?usp=sharing) <br>
  And place it in the directory: 
  ```
  libs\arcface\weight\model_final.pth
