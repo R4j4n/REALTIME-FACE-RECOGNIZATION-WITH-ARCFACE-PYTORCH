@@ -28,7 +28,7 @@
 
 ```
 torch == 1.7.1
-pencv-python == 4.5.1.48
+opencv-python == 4.5.1.48
 numpy
 scikit-learn
 scipy
